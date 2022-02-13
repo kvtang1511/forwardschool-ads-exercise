@@ -1,0 +1,2 @@
+model_checkpoint_path: "exer2model"
+all_model_checkpoint_paths: "exer2model"
